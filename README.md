@@ -49,3 +49,4 @@ This project was developed as part of a **Web Technology course** to demonstrate
 ---
 
 ⭐ Feel free to explore the project and suggest improvements!
+Pls make sure you have the nado_modules installed in the clients folder before running the file
